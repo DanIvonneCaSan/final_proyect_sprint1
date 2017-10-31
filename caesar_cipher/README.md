@@ -2,7 +2,7 @@
 
 1. Ingresar la frase a codificar.
 2. Guardar en una variable la frase.
-3. Revisar si el mensaje tiene espacios y números, si los tiene devolver mensaje de que los posee y que ingrese otra frase.
+3. Revisar si el mensaje tiene números ó campos vacíos, si los tiene devolver mensaje de que los posee y que ingrese otra frase.
 4. Definir la función cipher
 5. Declarar las variables que ayudarán a operar, como arreglos vacíos y demás.
 6. Crear un array e ir guardando los valores en código ASCII.
