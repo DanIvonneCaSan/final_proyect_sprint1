@@ -20,4 +20,4 @@
 18. Aplicar el modulo de 10, si el resultado es igual a cero la tarjeta es válida y desplegar mensaje.
 
 # *Diagrama de Flujo*
-![diagrama](./assets/images/FlowChart.jpg)
+![Diagrama](./assets/images/FlowChart.JPG)
