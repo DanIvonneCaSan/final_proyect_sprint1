@@ -2,9 +2,9 @@ var mssCode= prompt("Ingresa una frase");
 //var mssCode= "Luegovemos";
 
 for (var i=0; i<=mssCode.length; i++){        //Revisión del mensaje sin espacios y números
-  if(isNaN(mssCode[i])===false){
+  if(mssCode[i] === undefined && parseInt(mssCode[i])!==Number){
     console.log("No se puede continuar");
-    document.write ("Tu frase tiene números y espacios. Ingresa una nueva.");
+    document.write ("Tu frase tiene números o no ingresaste nada. Ingresa una nueva.");
   }
 }
 
