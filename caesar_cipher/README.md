@@ -12,9 +12,9 @@
 10. Unir los elementos del array y eliminar las comas para obtener un string.
 11. Desplegar el resultado. La frase codificada.
 11. Crear la función uncipher y recibir la frase a decifrar
-12. Convertir los datos del código ASCII y guardarlos en un raay.
+12. Convertir los datos del código ASCII y guardarlos en un array.
 13. Validar que sean mayúsculas para asignarle al valor de "x" de la ecuación 90 y si son minúsculas 122.
-14. Efectuar el desplazamiento, se realiza el cifrado y se almacenan los datos en un array (arrayUnCode).
+14. Efectuar el desplazamiento, realizar el cifrado y almacenar los datos en un array (arrayUnCode).
 15. Convertir el código ASCII del array en letras y guardarlas en un array.
 16. Juntar o concatenar los elementos del array resultante y eliminar las comas.
 17. Mostrar el resultado, la frase convertida a código.
