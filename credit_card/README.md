@@ -1,4 +1,4 @@
-#*Pseudocódigo*
+# *Pseudocódigo*
 
 1. Pedir el número de la tarjeta de crédito
 2. Guardarlo en una variable
@@ -19,5 +19,5 @@
 17. Sumar todos los datos.
 18. Aplicar el modulo de 10, si el resultado es igual a cero la tarjeta es válida y desplegar mensaje.
 
-#*Diagrama de Flujo*
-![FlowChart_1](/assets/images/FlowChart_1.jpg)
+# *Diagrama de Flujo*
+![Diagrama](./assets/images/FlowChart.jpg)
